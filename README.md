@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamdanielbryant
-- 👀 I’m currently interested in building python backends with flask!
+- 👀 I’m currently interested in all things automation with Python
 - 🌱 I’m currently learning flask & building REST APIs.
 - 💞️ I’m looking to collaborate wherever I can help.
 - 📫 Reach out on twitter @iamdanielbryant or email me: danbryant1426 at gmail d0t c0m
