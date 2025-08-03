@@ -1,9 +1,5 @@
-# 👋 Hi, I’m Daniel Bryant
-I'm a long time hobbiest programmer who's dabble in just about everything.
-
-My current focus is React Native working on XDO (more to come).
- * Follow me on X: https://x.com/danielsapps
- * Follow me on Tiktok: https://tiktok.com/@danielsapps
+# 👋
+Here are my github repos, feel free to copy my shit and don't ask.
 
 <!---
 iamdanielbryant/iamdanielbryant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
